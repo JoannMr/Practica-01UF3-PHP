@@ -1,0 +1,56 @@
+/* /public/css/exercici1.css */
+
+/* Reset y configuración general */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #eef2f7;
+    color: #333;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    padding: 20px;
+}
+
+h1, h2 {
+    margin-bottom: 15px;
+    color: #2c3e50;
+}
+
+ul {
+    list-style: none;
+    margin: 20px 0;
+    padding: 0;
+}
+
+ul li {
+    padding: 12px;
+    margin-bottom: 10px;
+    background-color: #f1f1f1;
+    border-left: 5px solid #2c3e50;
+    border-radius: 4px;
+}
+
+hr {
+    margin: 40px 0;
+    border: none;
+    height: 1px;
+    background-color: #ddd;
+}
+
+.error {
+    color: #e74c3c;
+    font-weight: bold;
+    margin: 10px 0;
+}
