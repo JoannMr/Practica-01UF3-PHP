@@ -1,5 +1,12 @@
 # Practica-01UF3-PHP
 
-El *EJERCICIO 3* para comprobar que funcionase he usado la URL del localhost, yo usé .../exercici3-querybuilder/public/usuaris.
+Para verificar que todo funcionase correctamente, he usado la URL local con XAMPP:
 
-Saludos!
+```
+http://localhost/...(tus carpetas).../exercici3-querybuilder/public/usuaris
+```
+
+---
+
+¡Saludos!
+
